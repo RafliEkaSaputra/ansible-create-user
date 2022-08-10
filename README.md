@@ -1,5 +1,6 @@
 1. Create Directory 
 
+
     mkdir -p quiz2/group_vars
     cd quiz2/group_vars
 
